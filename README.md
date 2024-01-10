@@ -30,5 +30,7 @@ This project is our Portfolio Project, concluding our third sprint at ALX. We we
            - Data Analytics: Gain insights into your usage patterns, energy consumption, and device performance through comprehensive data analytics.
  ## Risks
    * For the technical risks, as i mentionned above, we may slow doen our raspberry if we used it as data aquisition tool and server in the same time.
-   * For non technical tool, user will have access to control remmotely, so we will have to implement a good security system into their housing.\
+   * For non technical tool, user will have access to control remmotely, so we will have to implement a good security system into their housing.
+## Existing Solutions
+   * **FunTechHouse** (https://www.fun-tech.se/projects.php)
  
